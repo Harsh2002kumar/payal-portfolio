@@ -1,0 +1,33 @@
+body {
+  background-color: #1b1a1a;
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-inter: Inter;
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-size-mini: .938rem;
+  --font-size-xs: .75rem;
+  --color-gray-100: #151515;
+  --color-lightskyblue: #53aed9;
+  --color-gainsboro: #d9d9d9;
+  --color-white: #fff;
+  --color-dimgray: #756a6a00;
+  --gap-2xl-5: 1.344rem;
+  --gap-7xs: .375rem;
+  --gap-xl: 1.25rem;
+  --gap-sm: .875rem;
+  --padding-2xs: .688rem;
+  --padding-5xs: .5rem;
+  --padding-4xs: .563rem;
+  --padding-12xs: .063rem;
+  --padding-11xs: .125rem;
+  --padding-9xs: .25rem;
+  --padding-xl: 1.25rem;
+  --padding-8xs: .313rem;
+  --padding-7xs: .375rem;
+  --padding-5xl: 1.5rem;
+  --br-3xs: 10px;
+}
+/*# sourceMappingURL=index.689f5f05.css.map */

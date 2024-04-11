@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+  background-color: #1b1a1a;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inknut-antiqua: 'Inknut Antiqua';
+
+  /* font sizes */
+  --font-size-mini: 0.938rem;
+  --font-size-xs: 0.75rem;
+
+  /* Colors */
+  --color-gray-100: #151515;
+  --color-lightskyblue: #53aed9;
+  --color-gainsboro: #d9d9d9;
+  --color-white: #fff;
+  --color-dimgray: rgba(117, 106, 106, 0);
+
+  /* Gaps */
+  --gap-2xl-5: 1.344rem;
+  --gap-7xs: 0.375rem;
+  --gap-xl: 1.25rem;
+  --gap-sm: 0.875rem;
+
+  /* Paddings */
+  --padding-2xs: 0.688rem;
+  --padding-5xs: 0.5rem;
+  --padding-4xs: 0.563rem;
+  --padding-12xs: 0.063rem;
+  --padding-11xs: 0.125rem;
+  --padding-9xs: 0.25rem;
+  --padding-xl: 1.25rem;
+  --padding-8xs: 0.313rem;
+  --padding-7xs: 0.375rem;
+  --padding-5xl: 1.5rem;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}
